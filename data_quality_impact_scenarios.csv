@@ -1,0 +1,6 @@
+cde_name,quality_dimension,target_score,business_metric,baseline_business_value,elasticity,impact_type
+email_masked,completeness,0.85,campaign_revenue,1200000,0.4,income
+mobile_masked,availability,0.9,outreach_cost_avoidance,250000,0.3,cost
+opt_in_marketing,validity,0.88,consent_risk_reduction,180000,0.5,cost
+churn_risk_score,completeness,0.82,retention_revenue,900000,0.35,income
+dealer_id,completeness,0.92,service_allocation_efficiency,300000,0.25,cost
